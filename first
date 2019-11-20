@@ -1,5 +1,9 @@
 this is sample file
+<<<<<<< HEAD
 new line added
 this is gv line
 line added
 
+=======
+this is gv line
+>>>>>>> 5d238d4... gv line added
